@@ -70,5 +70,3 @@ group :test do
   gem 'webdrivers'
 end
 gem 'faker', '~> 2.23'
-gem 'haml-rails', '~> 2.0'
-gem 'html2haml'
